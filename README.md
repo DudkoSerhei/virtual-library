@@ -1,4 +1,5 @@
 Simple SSR application for virtual library.
+You can visit this application at: [Library](http://dudkoserhei.github.io/virtual-library)
 
 ### Technologies
 
