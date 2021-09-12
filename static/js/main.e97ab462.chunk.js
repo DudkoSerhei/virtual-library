@@ -1,2 +1,0 @@
-(this["webpackJsonpvirtual-library"]=this["webpackJsonpvirtual-library"]||[]).push([[0],{10:function(t,r,e){"use strict";e.r(r);var i=e(0),n=e.n(i),c=e(3),a=e.n(c),s=(e(8),e(1)),o=function(){return Object(s.jsx)("div",{className:"App",children:"Library application"})};a.a.render(Object(s.jsx)(n.a.StrictMode,{children:Object(s.jsx)(o,{})}),document.getElementById("root"))},8:function(t,r,e){}},[[10,1,2]]]);
-//# sourceMappingURL=main.e97ab462.chunk.js.map
