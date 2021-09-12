@@ -4,6 +4,7 @@
   "extends": ["react-app", "airbnb", "airbnb/hooks"],
   "rules": {
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-    "import/no-cycle": "off"
+    "import/no-cycle": "off",
+    "object-curly-newline": "off"
   }
 }
